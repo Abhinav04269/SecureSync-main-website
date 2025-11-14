@@ -20,12 +20,12 @@ export default function Index() {
       <section className="py-20 bg-white">
         <div className="max-w-4xl mx-auto text-center px-4 sm:px-6 lg:px-8">
           <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">
-            Ready to Elevate Your Enterprise Security?
+            {/* Ready to Elevate Your Enterprise Security? */}
           </h2>
-          <p className="text-xl text-gray-600 mb-8">
+          {/* <p className="text-xl text-gray-600 mb-8">
             Join thousands of organizations that trust SecureSync Pro to protect their most sensitive communications.
-          </p>
-          <div className="flex flex-col sm:flex-row gap-4 justify-center">
+          </p> */}
+          {/* <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button 
               size="lg" 
               className="bg-[#0043CE] hover:bg-[#0078FF] text-white px-8 py-4 text-lg font-semibold group"
@@ -40,7 +40,7 @@ export default function Index() {
             >
               Contact Enterprise Sales
             </Button>
-          </div>
+          </div> */}
           
           {/* Trust Indicators
           <div className="mt-12 pt-8 border-t border-gray-200">

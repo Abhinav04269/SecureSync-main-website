@@ -102,7 +102,7 @@ const SecuritySection = () => {
           </div>
         </div> */}
 
-        {/* Tech Stack */}
+        {/* Tech Stack
         <div className="bg-white/10 backdrop-blur-sm rounded-2xl p-8 border border-white/20">
           <h3 className="text-2xl font-bold text-center mb-6">Built with Enterprise-Grade Technology</h3>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-6 text-center">
@@ -123,17 +123,17 @@ const SecuritySection = () => {
               <div className="text-sm text-blue-100">TensorFlow, PyTorch, OpenAI</div>
             </div>
           </div>
-        </div>
+        </div> */}
 
         {/* CTA */}
         <div className="text-center mt-16">
-          <Button 
+          {/* <Button 
             size="lg" 
             className="bg-white text-[#0043CE] hover:bg-gray-100 px-8 py-4 text-lg font-semibold"
           >
             View Security Documentation
             <ArrowRight className="ml-2 h-5 w-5" />
-          </Button>
+          </Button> */}
         </div>
       </div>
     </section>
